@@ -1,7 +1,7 @@
 # Python_API 
 # Weather API project
 
-Useing data analysis libraries try to answer the question "What's the weather like as we approach the equator?"
+Using data analysis libraries try to answer the question "What's the weather like as we approach the equator?"
 ## Usage
 
 ```python
